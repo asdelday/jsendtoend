@@ -1,0 +1,21 @@
+{
+  "name": "entradas-project",
+  "version": "0.0.1",
+  "description": "End to End Javascript APP",
+  "bugs": {
+    "url": "https://github.com/asdelday/jsendtoend",
+    "email": "rodortcue@gmail.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Rodrigo Ortega Cuesta",
+    "email": "rodortcue@gmail.com",
+    "url": "http://rodorte.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asdelday/jsendtoend"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
